@@ -1,15 +1,15 @@
-# Example Highcharts Using Jennie
+# Highcharts Using Jennie
 
-# Command 
+# Command :
 
 ```
 jennie angular automations download install-highcharts
 ```
 
-# Result
+# Result :
 
-- Install Bootstrap, Jquery, Highcharts
-- Download sample UI module for highcharts
+- Install Highcharts and dependent libraries Bootstrap, Jquery.
+- Download sample UI module for highcharts.
 
 # Command Events :
 
