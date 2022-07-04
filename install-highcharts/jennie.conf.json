@@ -1,0 +1,41 @@
+{
+  "_id": 66,
+  "created_by": {
+    "email": "saurabh@ask-jennie.com",
+    "fullname": "Saurabh Pandey",
+    "city": "Gurgaon",
+    "bio": "Full Stack Developer",
+    "is_active": 1
+  },
+  "app_image": "",
+  "app_name": "install-highcharts",
+  "app_title": "Install high chart using npm library",
+  "app_description": "Install highcharts and adding module",
+  "tag": "installscript",
+  "stack": "angular",
+  "type": "angular-automations",
+  "automation_conf": [
+    {
+      "event_type": "install-npm-library",
+      "libs": [
+        "highcharts-angular"
+      ]
+    },
+    {
+      "event_type": "angular-ui-lib",
+      "libs": [
+        "example-highcharts"
+      ]
+    },
+    {
+      "event_type": "angular-automations",
+      "libs": [
+        "install-bootstrap"
+      ]
+    }
+  ],
+  "dependencies": [],
+  "is_active": false,
+  "created_on": "2022-07-04T14:35:12.344937Z",
+  "updated_on": "2022-07-04T15:29:17.371925Z"
+}
